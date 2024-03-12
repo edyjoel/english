@@ -1,0 +1,43 @@
+DANIEL SIERRA
+Monday, March 11th, 2024
+
+# curious facts:
+- meet / conocer * por primera vez *
+- know /  conocer de hace tiempo
+- awful: terrible
+- since: desde (hace)
+- science: ciencia
+
+# Quantyfiers:
+- a lot
+- many
+- plenty
+- several
+- some
+- a few
+- a bit
+- any(-)
+
+# Frequencies:
+- 100% - always
+- 90% - usually
+- 70% - often
+- 50% - sometimes
+- 35% - rarely/hardly ever
+- 0% - never
+
+# Vocabulary
+- how to cook
+- greece very well
+- very well
+- my team leader
+- your sister andrea
+- the new workmate
+- the way to my house
+- how to speak two languages
+- mi ex/best-friend for two years
+- about cardiology topics
+- english a little more than last year
+- my grandparents from ten years ago
+- know my grandparent's old house
+- Antigua Guatemala a lot of times
