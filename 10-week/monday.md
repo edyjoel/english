@@ -8,14 +8,24 @@ Monday, March 11th, 2024
 - since: desde (hace)
 - science: ciencia
 
+# How Questions:
+- how many (countable nouns)
+- how much (non countable nouns)
+- how many times (number of occasions)
+- how often (frequency)
+- how far
+- how long
+- how fast
+
 # Quantyfiers:
 - a lot
 - many
 - plenty
 - several
+- enough
 - some
 - a few
-- a bit
+- a bit if
 - any(-)
 
 # Frequencies:
@@ -24,7 +34,7 @@ Monday, March 11th, 2024
 - 70% - often
 - 50% - sometimes
 - 35% - rarely/hardly ever
-- 0% - never
+- 0% - never / ever
 
 # Vocabulary
 - how to cook
