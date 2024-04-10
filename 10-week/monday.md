@@ -18,15 +18,16 @@ Monday, March 11th, 2024
 - how fast
 
 # Quantyfiers:
-- a lot
-- many
+- a lot - how much
+- many - how many
 - plenty
-- several
-- enough
-- some
-- a few
-- a bit if
-- any(-)
+- several - how many
+- enough - both
+- some - both
+- a few - how many
+- a bit if - how much
+- a little - how much
+- any(-) - both
 
 # Frequencies:
 - 100% - always
