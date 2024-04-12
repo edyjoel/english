@@ -27,6 +27,7 @@ Monday, March 11th, 2024
 - a few - how many
 - a bit if - how much
 - a little - how much
+- a couple - how many
 - any(-) - both
 
 # Frequencies:
