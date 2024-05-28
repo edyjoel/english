@@ -29,6 +29,7 @@ Monday, March 11th, 2024
 - a little - how much
 - a couple - how many
 - any(-) - both
+- some how much
 
 # Frequencies:
 - 100% - always
